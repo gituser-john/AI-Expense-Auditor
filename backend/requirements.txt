@@ -1,0 +1,10 @@
+fastapi>=0.103.0
+uvicorn>=0.23.2
+python-multipart>=0.0.6
+SQLAlchemy>=2.0.20
+mysql-connector-python>=8.1.0
+pydantic>=2.3.0
+google-generativeai>=0.4.0
+python-dotenv>=1.0.0
+PyMuPDF>=1.23.0
+easyocr>=1.7.0
